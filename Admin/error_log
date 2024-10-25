@@ -1,0 +1,7 @@
+[25-Oct-2024 21:32:17 Asia/Jakarta] User logged out: AdminUser
+[25-Oct-2024 21:34:55 Asia/Jakarta] User logged out: AdminUser
+[25-Oct-2024 21:37:00 Asia/Jakarta] User logged out: AdminUser
+[25-Oct-2024 22:41:21 Asia/Jakarta] User logged out: AdminUser
+[25-Oct-2024 22:50:50 Asia/Jakarta] PHP Warning:  require(/db.php): failed to open stream: No such file or directory in /home/lisc6834/public_html/EventOrganizingWannabe/Admin/user_management.php on line 8
+[25-Oct-2024 22:50:50 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/db.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/lisc6834/public_html/EventOrganizingWannabe/Admin/user_management.php on line 8
+[25-Oct-2024 23:02:03 Asia/Jakarta] User logged out: AdminUser

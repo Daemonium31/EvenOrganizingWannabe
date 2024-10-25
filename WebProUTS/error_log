@@ -1,0 +1,10 @@
+[25-Oct-2024 22:43:40 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/lisc6834/public_html/EventOrganizingWannabe/WebProUTS/register.php on line 28
+[25-Oct-2024 22:45:56 Asia/Jakarta] User logged out: wisnu
+[25-Oct-2024 23:02:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/lisc6834/public_html/EventOrganizingWannabe/WebProUTS/forgotpassword.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/lisc6834/public_html/EventOrganizingWannabe/WebProUTS/forgotpassword.php on line 25
+[25-Oct-2024 23:03:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/lisc6834/public_html/EventOrganizingWannabe/WebProUTS/resetpassword.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/lisc6834/public_html/EventOrganizingWannabe/WebProUTS/resetpassword.php on line 31
