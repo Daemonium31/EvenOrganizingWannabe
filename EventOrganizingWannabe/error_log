@@ -1,0 +1,25 @@
+[25-Oct-2024 21:25:37 Asia/Jakarta] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home/lisc6834/public_html/EventOrganizingWannabe/index.php on line 30
+[25-Oct-2024 21:25:37 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required 'db.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/lisc6834/public_html/EventOrganizingWannabe/index.php on line 30
+[25-Oct-2024 21:26:07 Asia/Jakarta] reCAPTCHA verification failed for user: AdminUser
+[25-Oct-2024 21:26:12 Asia/Jakarta] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home/lisc6834/public_html/EventOrganizingWannabe/index.php on line 30
+[25-Oct-2024 21:26:12 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required 'db.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/lisc6834/public_html/EventOrganizingWannabe/index.php on line 30
+[25-Oct-2024 21:26:48 Asia/Jakarta] reCAPTCHA verification failed for user: AdminUser
+[25-Oct-2024 21:27:00 Asia/Jakarta] Admin user logged in successfully. Role: admin
+[25-Oct-2024 21:29:31 Asia/Jakarta] reCAPTCHA verification failed for user: AdminUser
+[25-Oct-2024 21:29:31 Asia/Jakarta] Current session role: admin
+[25-Oct-2024 21:29:36 Asia/Jakarta] Admin user logged in successfully. Role: admin
+[25-Oct-2024 21:30:21 Asia/Jakarta] reCAPTCHA verification failed for user: AdminUser
+[25-Oct-2024 21:30:21 Asia/Jakarta] Current session role: admin
+[25-Oct-2024 21:30:28 Asia/Jakarta] Admin user logged in successfully. Role: admin
+[25-Oct-2024 21:31:05 Asia/Jakarta] reCAPTCHA verification failed for user: AdminUser
+[25-Oct-2024 21:31:05 Asia/Jakarta] Current session role: admin
+[25-Oct-2024 21:31:18 Asia/Jakarta] Admin user logged in successfully. Role: admin
+[25-Oct-2024 21:31:43 Asia/Jakarta] reCAPTCHA verification failed for user: AdminUser
+[25-Oct-2024 21:31:43 Asia/Jakarta] Current session role: admin
+[25-Oct-2024 21:31:56 Asia/Jakarta] Admin user logged in successfully. Role: admin
+[25-Oct-2024 21:34:43 Asia/Jakarta] Admin user logged in successfully. Role: admin
+[25-Oct-2024 21:35:17 Asia/Jakarta] Admin user logged in successfully. Role: admin
+[25-Oct-2024 21:35:25 Asia/Jakarta] Current session role: admin
+[25-Oct-2024 21:35:51 Asia/Jakarta] Admin user logged in successfully. Role: admin
+[25-Oct-2024 21:35:54 Asia/Jakarta] Current session role: admin
+[25-Oct-2024 21:36:46 Asia/Jakarta] Admin user logged in successfully. Role: admin
